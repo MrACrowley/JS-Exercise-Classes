@@ -41,6 +41,18 @@ class Airplane {
 */
 
 class Person {
+  constructor(name, age, stomach) {
+    this.name = name;
+    this.age = age;
+    this.stomach = empty;
+  }
+  someFood.eat() {
+    if eat > 10 ()
+    this.push = stomach;
+  }
+  .toString() {
+ 
+  }
 
 }
 
@@ -59,7 +71,9 @@ class Person {
 */
 
 class Car {
+  constructor(model); {
 
+  }
 }
 
 /*
